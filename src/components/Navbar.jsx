@@ -1,4 +1,3 @@
-import React from "react";
 import webLogo from "../assets/webLogo.png";
 
 export default function Navbar() {
@@ -15,21 +14,20 @@ export default function Navbar() {
           />
         </a>
       </div>
-      <div className="flex gap-[3rem] text-[#fff] ">
-        <a href="xxx">
+      <div className="flex gap-[3rem] text-[#fff] items-center">
+        <a href="/">
           <div>Home</div>
         </a>
-        <a href="xxx">
+        <a href="#About">
           <div>About</div>
         </a>
-        <a href="xxx">
-          <div>Passions</div>
-        </a>
-        <a href="xxx">
+        <a href="#portfolio">
           <div>Portfolio</div>
         </a>
-        <a href="xxx">
-          <div>Contact Me</div>
+        <a href="#contact">
+          <button className="bg-primary w-[180px] h-[65px] rounded-full text-xl font-bold">
+            Contact me
+          </button>
         </a>
       </div>
     </div>
