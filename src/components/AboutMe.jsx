@@ -28,35 +28,35 @@ export default function AboutMe() {
             <p>
               I understand that
               <span className=" text-[#EA1179] font-bold mx-[10px]">
-                it's risky to hire someone
+                {"it's risky to hire someone"}
               </span>
-              who didn't graduate from a computer science program as a
-              developer,{" "}
+              {` who didn't graduate from a computer science program as a
+              developer,`}
               <span className=" text-[#EA1179] font-bold mx-[10px]">
                 but I am confident that I can learn quickly and adapt.
               </span>
-              I've applied my communication skills, which I have honed within a
+              {`I've applied my communication skills, which I have honed within a
               team environment, to contribute effectively to software
-              development projects.
+              development projects.`}
             </p>
             <br></br>
             <p>
-              I'm passionate about software development and constantly seek
-              opportunities to
+              {`I'm passionate about software development and constantly seek
+              opportunities to`}
               <span className=" text-[#EA1179] font-bold mx-[10px]">
                 learn and grow
               </span>
               within a trusted organization. Currently, I focus on React for
               frontend development and Node.js for backend work, but
               <span className=" text-[#EA1179] font-bold mx-[10px]">
-                I'm always eager to explore new technology stacks.
+                {`I'm always eager to explore new technology stacks.`}
               </span>
             </p>
             <br></br>
             <p>
-              In my free time, I enjoy playing music and singing as well. If
+              {`In my free time, I enjoy playing music and singing as well. If
               you're interested in hiring me, I hope we can play music together
-              someday. Best regards to the team for the future 💌.
+              someday. Best regards to the team for the future 💌.`}
             </p>
           </div>
         </div>

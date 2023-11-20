@@ -38,11 +38,11 @@ export default function Navbar() {
               xmlns="http://www.w3.org/2000/svg"
               fill="#ffffff"
               stroke="#ffffff">
-              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
               <g
                 id="SVGRepo_tracerCarrier"
-                stroke-linecap="round"
-                stroke-linejoin="round"></g>
+                strokeLinecap="round"
+                strokeLinejoin="round"></g>
               <g id="SVGRepo_iconCarrier">
                 {" "}
                 <title></title>{" "}
@@ -60,15 +60,15 @@ export default function Navbar() {
                         id="_--Circle"
                         r="10"
                         stroke="#ffffff"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"></circle>{" "}
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth="2"></circle>{" "}
                       <line
                         fill="none"
                         stroke="#ffffff"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth="2"
                         x1="14.5"
                         x2="9.5"
                         y1="9.5"
@@ -76,9 +76,9 @@ export default function Navbar() {
                       <line
                         fill="none"
                         stroke="#ffffff"
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth="2"
                         x1="14.5"
                         x2="9.5"
                         y1="14.5"
@@ -93,28 +93,28 @@ export default function Navbar() {
               viewBox="0 0 24 24"
               fill="none"
               xmlns="http://www.w3.org/2000/svg">
-              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
               <g
                 id="SVGRepo_tracerCarrier"
-                stroke-linecap="round"
-                stroke-linejoin="round"></g>
+                strokeLinecap="round"
+                strokeLinejoin="round"></g>
               <g id="SVGRepo_iconCarrier">
                 {" "}
                 <path
                   d="M4 18L20 18"
                   stroke="#ffffff"
-                  stroke-width="2"
-                  stroke-linecap="round"></path>{" "}
+                  strokeWidth="2"
+                  strokeLinecap="round"></path>{" "}
                 <path
                   d="M4 12L20 12"
                   stroke="#ffffff"
-                  stroke-width="2"
-                  stroke-linecap="round"></path>{" "}
+                  strokeWidth="2"
+                  strokeLinecap="round"></path>{" "}
                 <path
                   d="M4 6L20 6"
                   stroke="#ffffff"
-                  stroke-width="2"
-                  stroke-linecap="round"></path>{" "}
+                  strokeWidth="2"
+                  strokeLinecap="round"></path>{" "}
               </g>
             </svg>
           )}

@@ -26,7 +26,7 @@ export default function Portfolio() {
         {viewall && (
           <>
             <div className="text-[white] text-[1.5rem] font-bold">
-              What's next?
+              {`What's next?`}
             </div>
             <div className="text-[white] text-[1rem] font-bold">
               My next goal is to develop an accessible e-commerce website with

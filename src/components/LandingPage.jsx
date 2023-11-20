@@ -1,5 +1,5 @@
 import sarawut from "../assets/sarawut.png";
-import resume from "../assets/resume.pdf";
+import sarawut_nangyam_resume from "../assets/sarawut_nangyam_resume.pdf";
 
 export default function LandingPage() {
   return (
@@ -15,7 +15,7 @@ export default function LandingPage() {
           Newbie web developer with a hunger to learn and grow
         </h3>
         <div className="flex justify-center lg:inline">
-          <a href={resume} download>
+          <a href={sarawut_nangyam_resume} download>
             <button className="btn mt-[20px]">Download CV</button>
           </a>
         </div>
