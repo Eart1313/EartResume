@@ -1,5 +1,4 @@
 /** @type {import('tailwindcss').Config} */
-import footer from "./src/assets/footer.png";
 
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
